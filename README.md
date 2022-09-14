@@ -4,7 +4,7 @@ Database Systems
 
 ```
 
-    Total Views per Day from 2022-08-17 to 2022-09-13
+    Total Views per Day from 2022-08-17 to 2022-09-14
 
     Repository Views
    18.00  ┼       ╭╮
@@ -21,9 +21,9 @@ Database Systems
     4.80  ┤│      ││
     3.60  ┤│╭╮  ╭╮││
     2.40  ┤╰╯│  ││││╭╮ ╭╮    ╭╮╭╮  ╭╮
-    1.20  ┤  ╰─╮││││││ ││╭╮  │╰╯│ ╭╯│
-    0.00  ┤    ╰╯╰╯╰╯╰─╯╰╯╰──╯  ╰─╯ ╰─
+    1.20  ┤  ╰─╮││││││ ││╭╮  │╰╯│ ╭╯│╭╮
+    0.00  ┤    ╰╯╰╯╰╯╰─╯╰╯╰──╯  ╰─╯ ╰╯╰
 
-    Chart last updated - Tue Sep 13 00:32:12 2022 UTC
+    Chart last updated - Wed Sep 14 00:31:36 2022 UTC
     
 ```
