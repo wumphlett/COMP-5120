@@ -1,0 +1,5 @@
+SupplierID,CompanyName,ContactLastName,ContactFirstName,Phone
+1,supplier1,company1,company1,1111111111
+2,supplier2,company2,company2,2222222222
+3,supplier3,company3,company3,3333333333
+4,supplier4,company4,,4444444444
