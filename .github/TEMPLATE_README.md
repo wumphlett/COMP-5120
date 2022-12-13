@@ -7,7 +7,7 @@ Database Systems
 - To create own instance, fill in the config vars in `src/database.php`
 
 ## Special Thanks
-- [SkydivingSquid](https://github.com/SkydivingSquid) - website beautification
+- [@SkydivingSquid](https://github.com/SkydivingSquid) - website beautification
 
 ```
 {VIEWS_CHART}
