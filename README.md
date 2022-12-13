@@ -3,7 +3,7 @@ Auburn COMP 5120 Project
 Database Systems
 
 ## Usage
-- Website hosted on [auburn.edu/~wah0028](http://webhome.auburn.edu/~wah0028/)
+- Website hosted on [auburn.edu/~wah0028](https://webhome.auburn.edu/~wah0028/)
 - To create own instance, fill in the config vars in `src/database.php`
 
 ## Special Thanks
@@ -31,6 +31,6 @@ Database Systems
        4 ┼╮            ╭──╮ ╭╮    ││╭╮╭╯││╰─╮  ╭╮││    │╰─╮   │  │  ╭╮ ╭╯╰╮╭╮        ││╭╯ ╰╯  │   ╭
        0 ┤╰────────────╯  ╰─╯╰────╯╰╯╰╯ ╰╯  ╰──╯╰╯╰────╯  ╰───╯  ╰──╯╰─╯  ╰╯╰────────╯╰╯      ╰───╯
 
-        Chart last updated - Tue Dec 13 22:17:26 2022 UTC
+        Chart last updated - Tue Dec 13 22:22:42 2022 UTC
         
 ```
