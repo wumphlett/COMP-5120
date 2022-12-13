@@ -5,6 +5,8 @@ $dbuser = "USERNAME";
 $dbpass = "PASSWORD";
 $dbname = "DBNAME";
 
+$tables = array("db_book", "db_customer", "db_order_detail", "db_order", "db_shipper", "db_subject", "db_supplier");
+
 function get_connection() {
     global $dbhost, $dbuser, $dbpass, $dbname;
     $connection = mysqli_connect($dbhost, $dbuser, $dbpass, $dbname);

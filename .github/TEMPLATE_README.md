@@ -6,9 +6,9 @@ Database Systems
 - Website hosted on [auburn.edu/~wah0028](http://webhome.auburn.edu/~wah0028/)
 - To create own instance, fill in the config vars in `src/database.php`
 
+## Special Thanks
+- [@SkydivingSquid](https://github.com/SkydivingSquid) - website beautification
+
 ```
 {VIEWS_CHART}
 ```
-
-## Special Thanks
-- [@SkydivingSquid](https://github.com/SkydivingSquid) - website beautification

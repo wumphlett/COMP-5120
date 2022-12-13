@@ -6,6 +6,9 @@ Database Systems
 Website hosted on http://webhome.auburn.edu/~wah0028/
 To create own instance, fill in the config vars in `src/database.php`
 
+## Special Thanks
+- [https://github.com/SkydivingSquid](@SkydivingSquid) - website beautification & added functionality
+
 ```
 
         Total Views per Day from 2022-09-15 to 2022-12-13
@@ -31,6 +34,3 @@ To create own instance, fill in the config vars in `src/database.php`
         Chart last updated - Tue Dec 13 21:11:44 2022 UTC
         
 ```
-
-## Special Thanks
-- [https://github.com/SkydivingSquid](@SkydivingSquid) - website beautification
