@@ -2,28 +2,35 @@
 Auburn COMP 5120 Project  
 Database Systems
 
+## Usage
+Website hosted on http://webhome.auburn.edu/~wah0028/
+To create own instance, fill in the config vars in `src/database.php`
+
 ```
 
-    Total Views per Day from 2022-09-14 to 2022-12-12
+        Total Views per Day from 2022-09-15 to 2022-12-13
 
-    Repository Views
-   61.00  ┼                                                                                    ╭╮
-   56.93  ┤                                                                                    ││
-   52.87  ┤                                                                                    ││
-   48.80  ┤                                                                                    ││
-   44.73  ┤                                                                                    ││
-   40.67  ┤                                                                                    ││
-   36.60  ┤                                                                                    ││
-   32.53  ┤                                                                                    ││
-   28.47  ┤                                                                                    ││
-   24.40  ┤                                                     ╭╮                             ││
-   20.33  ┤                                                     ││                             ││
-   16.27  ┤                                                     ││                             ││
-   12.20  ┤                              ╭╮╭╮                   ││                           ╭─╯│
-    8.13  ┤                         ╭╮   ││││      ╭╮    ╭╮     │╰─╮      ╭╮           ╭╮ ╭─╮│  │
-    4.07  ┤╭╮            ╭──╮ ╭╮    ││╭╮╭╯││╰─╮  ╭╮││    │╰─╮   │  │  ╭╮ ╭╯╰╮╭╮        ││╭╯ ╰╯  │
-    0.00  ┼╯╰────────────╯  ╰─╯╰────╯╰╯╰╯ ╰╯  ╰──╯╰╯╰────╯  ╰───╯  ╰──╯╰─╯  ╰╯╰────────╯╰╯      ╰───
+        Repository Views
+      61 ┼                                                                                   ╭╮
+      57 ┤                                                                                   ││
+      53 ┤                                                                                   ││
+      49 ┤                                                                                   ││
+      45 ┤                                                                                   ││
+      41 ┤                                                                                   ││
+      37 ┤                                                                                   ││
+      33 ┤                                                                                   ││
+      28 ┤                                                                                   ││
+      24 ┤                                                    ╭╮                             ││
+      20 ┤                                                    ││                             ││
+      16 ┤                                                    ││                             ││
+      12 ┤                             ╭╮╭╮                   ││                           ╭─╯│
+       8 ┤                        ╭╮   ││││      ╭╮    ╭╮     │╰─╮      ╭╮           ╭╮ ╭─╮│  │
+       4 ┼╮            ╭──╮ ╭╮    ││╭╮╭╯││╰─╮  ╭╮││    │╰─╮   │  │  ╭╮ ╭╯╰╮╭╮        ││╭╯ ╰╯  │   ╭
+       0 ┤╰────────────╯  ╰─╯╰────╯╰╯╰╯ ╰╯  ╰──╯╰╯╰────╯  ╰───╯  ╰──╯╰─╯  ╰╯╰────────╯╰╯      ╰───╯
 
-    Chart last updated - Mon Dec 12 23:59:51 2022 UTC
-    
+        Chart last updated - Tue Dec 13 21:11:44 2022 UTC
+        
 ```
+
+## Special Thanks
+- [https://github.com/SkydivingSquid](@SkydivingSquid) - website beautification
